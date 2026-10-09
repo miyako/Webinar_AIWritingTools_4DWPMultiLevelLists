@@ -53,7 +53,8 @@
 					"width": 1341,
 					"height": 800,
 					"picture": "/RESOURCES/IntroIcons/WebinarIntro_Background.png",
-					"pictureFormat": "scaled"
+					"pictureFormat": "scaled",
+					"class": "light-only"
 				}
 			}
 		},
@@ -74,7 +75,8 @@
 					"verticalAlignment": "center",
 					"focusable": false,
 					"textAlign": "center",
-					"fontWeight": "bold"
+					"fontWeight": "bold",
+					"stroke": "automatic"
 				},
 				"WebinarIntro1": {
 					"type": "text",
@@ -89,7 +91,8 @@
 					"horizontalAlignment": "left",
 					"verticalAlignment": "top",
 					"focusable": false,
-					"textAlign": "justify"
+					"textAlign": "justify",
+					"stroke": "automatic"
 				},
 				"WebinarIntro1Icon": {
 					"type": "picture",
@@ -115,7 +118,8 @@
 					"horizontalAlignment": "left",
 					"verticalAlignment": "top",
 					"focusable": false,
-					"textAlign": "justify"
+					"textAlign": "justify",
+					"stroke": "automatic"
 				},
 				"WebinarIntro2Icon": {
 					"type": "picture",
@@ -141,7 +145,8 @@
 					"horizontalAlignment": "left",
 					"verticalAlignment": "top",
 					"focusable": false,
-					"textAlign": "justify"
+					"textAlign": "justify",
+					"stroke": "automatic"
 				},
 				"WebinarIntro3Icon": {
 					"type": "picture",
@@ -190,14 +195,41 @@
 					"left": 598,
 					"width": 177,
 					"height": 0,
-					"stroke": "#6495ED",
 					"strokeWidth": 4,
-					"startPoint": "topLeft"
+					"startPoint": "topLeft",
+					"class": "title-line"
 				}
 			}
 		},
 		{
 			"objects": {
+				"Card1": {
+					"type": "rectangle",
+					"top": 158,
+					"left": 1022,
+					"width": 319,
+					"height": 120,
+					"borderRadius": 12,
+					"class": "card-dark"
+				},
+				"Card2": {
+					"type": "rectangle",
+					"top": 294,
+					"left": 1022,
+					"width": 319,
+					"height": 160,
+					"borderRadius": 12,
+					"class": "card-dark"
+				},
+				"Card3": {
+					"type": "rectangle",
+					"top": 470,
+					"left": 1022,
+					"width": 319,
+					"height": 205,
+					"borderRadius": 12,
+					"class": "card-dark"
+				},
 				"Static Picture4": {
 					"type": "picture",
 					"top": 462,
@@ -205,7 +237,8 @@
 					"width": 335,
 					"height": 221,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
-					"pictureFormat": "scaled"
+					"pictureFormat": "scaled",
+					"class": "light-only"
 				},
 				"Static Picture3": {
 					"type": "picture",
@@ -214,7 +247,8 @@
 					"width": 335,
 					"height": 176,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
-					"pictureFormat": "scaled"
+					"pictureFormat": "scaled",
+					"class": "light-only"
 				},
 				"Static Picture1": {
 					"type": "picture",
@@ -223,7 +257,8 @@
 					"width": 335,
 					"height": 136,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
-					"pictureFormat": "scaled"
+					"pictureFormat": "scaled",
+					"class": "light-only"
 				},
 				"WParea": {
 					"type": "write",
@@ -265,10 +300,9 @@
 				},
 				"OpenFinalWritePro": {
 					"type": "button",
-					"top": 577,
+					"top": 581,
 					"left": 1034,
 					"width": 293,
-					"height": 35,
 					"title": "Open final Write Pro file",
 					"fontFamily": "Arial",
 					"fontSize": 14,
@@ -277,14 +311,14 @@
 						"onClick"
 					],
 					"dataSource": "",
-					"text": "Import Final Write Pro Document"
+					"text": "Import Final Write Pro Document",
+					"class": "default"
 				},
 				"OpenMultiLevelStyles": {
 					"type": "button",
-					"top": 399,
+					"top": 403,
 					"left": 1034,
 					"width": 293,
-					"height": 35,
 					"title": "Open multiLevelStyles.json",
 					"fontFamily": "Arial",
 					"fontSize": 14,
@@ -292,14 +326,14 @@
 					"events": [
 						"onClick"
 					],
-					"text": "Open MultiLevelStyles.json"
+					"text": "Open MultiLevelStyles.json",
+					"class": "default"
 				},
 				"OpenParisPDF": {
 					"type": "button",
-					"top": 619,
+					"top": 623,
 					"left": 1034,
 					"width": 293,
-					"height": 35,
 					"title": "Open Paris.pdf",
 					"fontFamily": "Arial",
 					"fontSize": 14,
@@ -307,7 +341,8 @@
 					"events": [
 						"onClick"
 					],
-					"text": "Open Paris.pdf"
+					"text": "Open Paris.pdf",
+					"class": "default"
 				},
 				"DemoText1": {
 					"type": "text",
@@ -320,7 +355,8 @@
 					"fontSize": 14,
 					"textAlign": "left",
 					"verticalAlignment": "top",
-					"focusable": false
+					"focusable": false,
+					"stroke": "automatic"
 				},
 				"Text2": {
 					"type": "text",
@@ -330,7 +366,8 @@
 					"width": 222,
 					"height": 24,
 					"fontSize": 15,
-					"fontWeight": "bold"
+					"fontWeight": "bold",
+					"stroke": "automatic"
 				},
 				"Text3": {
 					"type": "text",
@@ -340,7 +377,8 @@
 					"width": 270,
 					"height": 16,
 					"fontSize": 15,
-					"fontWeight": "bold"
+					"fontWeight": "bold",
+					"stroke": "automatic"
 				},
 				"Text1": {
 					"type": "text",
@@ -350,7 +388,8 @@
 					"width": 116,
 					"height": 16,
 					"fontSize": 15,
-					"fontWeight": "bold"
+					"fontWeight": "bold",
+					"stroke": "automatic"
 				},
 				"Static Picture5": {
 					"type": "picture",
@@ -390,7 +429,8 @@
 					"fontSize": 14,
 					"textAlign": "left",
 					"verticalAlignment": "top",
-					"focusable": false
+					"focusable": false,
+					"stroke": "automatic"
 				},
 				"DemoText3": {
 					"type": "text",
@@ -403,7 +443,8 @@
 					"fontSize": 14,
 					"textAlign": "left",
 					"verticalAlignment": "top",
-					"focusable": false
+					"focusable": false,
+					"stroke": "automatic"
 				}
 			}
 		}
