@@ -4,7 +4,10 @@
 
 4D Write Pro で Apple 作文ツールを使う方法と、マルチレベルリストを管理する方法を学びます。アプリケーションを切り替えたり API キーを管理したりすることなく、4D Write Pro 内で直接、文章の作成、書き直し、トーンの調整ができます。さらに、マルチレベルスタイルシート、定義済みテンプレート、カスタムマルチレベルスタイル、`multiLevelStyles.json` リソースファイルを使ってエッフェル塔のパンフレットを作成し、PDF として書き出します。
 
-詳細は[ブログ記事](https://blog.4d.com/ja/)をご覧ください。
+詳細は以下のブログ記事をご覧ください。
+
+* [Appleのライティングツール - 4D Write Proおよびテキスト入力で利用可能に](https://blog.4d.com/ja/apple-writing-tools-now-available-in-4d-write-pro-and-text-input/)
+* [4D Write Proのマルチレベルスタイルシート: 専用 UI を実装](https://blog.4d.com/ja/multi-level-style-sheets-in-4d-write-pro-now-with-a-dedicated-ui/)
 
 > [!NOTE]
 > このページはAIで翻訳されました。
