@@ -89,10 +89,10 @@
 				},
 				"WebinarIntro1": {
 					"type": "text",
-					"top": 412,
+					"top": 392,
 					"left": 441,
 					"width": 562,
-					"height": 56,
+					"height": 76,
 					"sizingX": "grow",
 					"text": ":xliff:MainWindow_WebinarIntro1",
 					"fontFamily": "Arial",
@@ -105,7 +105,7 @@
 				},
 				"WebinarIntro1Icon": {
 					"type": "picture",
-					"top": 413,
+					"top": 403,
 					"left": 372,
 					"width": 55,
 					"height": 55,
@@ -119,7 +119,7 @@
 					"top": 483,
 					"left": 441,
 					"width": 562,
-					"height": 56,
+					"height": 76,
 					"sizingX": "grow",
 					"text": ":xliff:MainWindow_WebinarIntro2",
 					"fontFamily": "Arial",
@@ -132,7 +132,7 @@
 				},
 				"WebinarIntro2Icon": {
 					"type": "picture",
-					"top": 484,
+					"top": 494,
 					"left": 372,
 					"width": 55,
 					"height": 55,
@@ -143,7 +143,7 @@
 				},
 				"WebinarIntro3": {
 					"type": "text",
-					"top": 573,
+					"top": 593,
 					"left": 441,
 					"width": 562,
 					"height": 19,
@@ -159,7 +159,7 @@
 				},
 				"WebinarIntro3Icon": {
 					"type": "picture",
-					"top": 555,
+					"top": 575,
 					"left": 372,
 					"width": 55,
 					"height": 55,
@@ -458,7 +458,7 @@
 			}
 		}
 	],
-	"geometryStamp": 294,
+	"geometryStamp": 304,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
