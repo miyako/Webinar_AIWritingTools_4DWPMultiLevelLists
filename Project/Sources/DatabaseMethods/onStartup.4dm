@@ -1,3 +1,1 @@
-SET WINDOW TITLE("Webinar 21 R4 - Demo")
-DIALOG:C40("MainWindow")
-CLOSE WINDOW
+start

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Forms/MainWindow/form.4DForm" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="MainWindow_WindowTitle" resname="MainWindow_WindowTitle">
+				<source>4D Write Pro: AI Writing Tools &amp; Multi-Level Lists</source>
+				<target>4D Write Pro: AI 作文ツールとマルチレベルリスト</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_TabIntroduction" resname="MainWindow_TabIntroduction">
+				<source>Introduction</source>
+				<target>はじめに</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_TabWritePro" resname="MainWindow_TabWritePro">
+				<source>Write Pro</source>
+				<target>Write Pro</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarTitle" resname="MainWindow_WebinarTitle">
+				<source>4D Write Pro: Apple Writing Tools &amp; Multi-Level Lists</source>
+				<target>4D Write Pro: Apple 作文ツールとマルチレベルリスト</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro1" resname="MainWindow_WebinarIntro1">
+				<source>In the 4D 21 R4 webinar, we explored how Apple Writing Tools work directly inside 4D Write Pro. We saw how to compose, rewrite, and adjust the tone of content without switching applications or managing API keys.</source>
+				<target>4D 21 R4 ウェビナーでは、Apple の作文ツールを 4D Write Pro 内で直接使う方法を紹介しました。アプリの切り替えや API キーの管理なしに、文章の作成、書き直し、トーンの調整ができます。</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro2" resname="MainWindow_WebinarIntro2">
+				<source>We then built a professional Eiffel Tower brochure using multi-level style sheets, predefined templates, custom multi-level styles, toolbar controls, and the multiLevelStyles.json resource file.</source>
+				<target>続いて、マルチレベルスタイルシート、定義済みテンプレート、カスタムマルチレベルスタイル、ツールバー、multiLevelStyles.json を使って、エッフェル塔のパンフレットを作成しました。</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro3" resname="MainWindow_WebinarIntro3">
+				<source>The final document was customized in 4D Write Pro and exported as a PDF.</source>
+				<target>完成したドキュメントは 4D Write Pro で仕上げ、PDF に書き出しました。</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GoToDemo" resname="MainWindow_GoToDemo">
+				<source>Try it Yourself! →</source>
+				<target>実際に試してみましょう！ →</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GoToDemoTitle" resname="MainWindow_GoToDemoTitle">
+				<source>Go to demo page</source>
+				<target>デモページへ</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenFinalWritePro" resname="MainWindow_OpenFinalWritePro">
+				<source>Import Final Write Pro Document</source>
+				<target>完成版の Write Pro ドキュメントを読み込む</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenFinalWriteProTitle" resname="MainWindow_OpenFinalWriteProTitle">
+				<source>Open final Write Pro file</source>
+				<target>完成版の Write Pro ファイルを開く</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenMultiLevelStyles" resname="MainWindow_OpenMultiLevelStyles">
+				<source>Open MultiLevelStyles.json</source>
+				<target>MultiLevelStyles.json を開く</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenMultiLevelStylesTitle" resname="MainWindow_OpenMultiLevelStylesTitle">
+				<source>Open multiLevelStyles.json</source>
+				<target>multiLevelStyles.json を開く</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenParisPDF" resname="MainWindow_OpenParisPDF">
+				<source>Open Paris.pdf</source>
+				<target>Paris.pdf を開く</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenParisPDFTitle" resname="MainWindow_OpenParisPDFTitle">
+				<source>Open Paris.pdf</source>
+				<target>Paris.pdf を開く</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GetStarted" resname="MainWindow_GetStarted">
+				<source>Get Started</source>
+				<target>スタート</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText1" resname="MainWindow_DemoText1">
+				<source>Follow the webinar step by step and try each feature in the empty 4D Write Pro area to the left.</source>
+				<target>ウェビナーの手順に沿って、左の空の 4D Write Pro エリアで各機能を試してみてください。</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_Customization" resname="MainWindow_Customization">
+				<source>Customization</source>
+				<target>カスタマイズ</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText2" resname="MainWindow_DemoText2">
+				<source>Choose which predefined multi-level list templates to show in the toolbar dropdown.</source>
+				<target>ツールバーのドロップダウンに表示するマルチレベルリストのテンプレートを選択します。</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_FinalResults" resname="MainWindow_FinalResults">
+				<source>Final Results</source>
+				<target>完成版</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText3" resname="MainWindow_DemoText3">
+				<source>Review the finished brochure in 4D Write Pro or open the exported PDF.</source>
+				<target>完成したパンフレットを 4D Write Pro で確認するか、書き出した PDF を開きます。</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
