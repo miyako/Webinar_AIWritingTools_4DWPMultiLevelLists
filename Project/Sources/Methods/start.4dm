@@ -2,7 +2,7 @@
 #DECLARE($params : Object)
 
 var $windowTitle : Text
-$windowTitle:="Webinar 21 R4 - Demo"
+$windowTitle:=Localized string("WindowTitleDemo")
 
 var $window : Integer
 

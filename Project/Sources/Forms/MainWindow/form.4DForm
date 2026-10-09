@@ -28,7 +28,7 @@
 		"onTimer",
 		"onBoundVariableChange"
 	],
-	"windowTitle": "4D Write Pro: AI Writing Tools & Multi-Level Lists",
+	"windowTitle": ":xliff:MainWindow_WindowTitle",
 	"destination": "detailScreen",
 	"pages": [
 		{
@@ -41,8 +41,8 @@
 					"height": 28,
 					"sizingX": "grow",
 					"labels": [
-						"Introduction",
-						"Write Pro"
+						":xliff:MainWindow_TabIntroduction",
+						":xliff:MainWindow_TabWritePro"
 					],
 					"action": "gotoPage"
 				},
@@ -76,7 +76,7 @@
 					"width": 819,
 					"height": 54,
 					"sizingX": "grow",
-					"text": "4D Write Pro: Apple Writing Tools & Multi-Level Lists",
+					"text": ":xliff:MainWindow_WebinarTitle",
 					"fontFamily": "Arial",
 					"fontSize": 30,
 					"fontStyle": "bold",
@@ -94,7 +94,7 @@
 					"width": 562,
 					"height": 56,
 					"sizingX": "grow",
-					"text": "In the 4D 21 R4 webinar, we explored how Apple Writing Tools work directly inside 4D Write Pro. We saw how to compose, rewrite, and adjust the tone of content without switching applications or managing API keys.",
+					"text": ":xliff:MainWindow_WebinarIntro1",
 					"fontFamily": "Arial",
 					"fontSize": 16,
 					"horizontalAlignment": "left",
@@ -121,7 +121,7 @@
 					"width": 562,
 					"height": 56,
 					"sizingX": "grow",
-					"text": "We then built a professional Eiffel Tower brochure using multi-level style sheets, predefined templates, custom multi-level styles, toolbar controls, and the multiLevelStyles.json resource file.",
+					"text": ":xliff:MainWindow_WebinarIntro2",
 					"fontFamily": "Arial",
 					"fontSize": 16,
 					"horizontalAlignment": "left",
@@ -148,7 +148,7 @@
 					"width": 562,
 					"height": 19,
 					"sizingX": "grow",
-					"text": "The final document was customized in 4D Write Pro and exported as a PDF.",
+					"text": ":xliff:MainWindow_WebinarIntro3",
 					"fontFamily": "Arial",
 					"fontSize": 16,
 					"horizontalAlignment": "left",
@@ -174,14 +174,14 @@
 					"left": 538,
 					"width": 280,
 					"height": 81,
-					"title": "Go to demo page",
+					"title": ":xliff:MainWindow_GoToDemoTitle",
 					"fontFamily": "Arial",
 					"fontSize": 16,
 					"method": "ObjectMethods/GoToDemo.4dm",
 					"events": [
 						"onClick"
 					],
-					"text": "Try it Yourself! →",
+					"text": ":xliff:MainWindow_GoToDemo",
 					"style": "custom",
 					"stroke": "#FFFFFF",
 					"textPlacement": "center",
@@ -290,7 +290,7 @@
 						"onAfterEdit"
 					],
 					"borderStyle": "none",
-					"dataSource": "WParea"
+					"dataSource": "Form:C1466.WParea"
 				},
 				"WPtoolbar": {
 					"type": "subform",
@@ -312,7 +312,7 @@
 					"top": 581,
 					"left": 1034,
 					"width": 293,
-					"title": "Open final Write Pro file",
+					"title": ":xliff:MainWindow_OpenFinalWriteProTitle",
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"method": "ObjectMethods/OpenFinalWritePro.4dm",
@@ -320,7 +320,7 @@
 						"onClick"
 					],
 					"dataSource": "",
-					"text": "Import Final Write Pro Document",
+					"text": ":xliff:MainWindow_OpenFinalWritePro",
 					"class": "default"
 				},
 				"OpenMultiLevelStyles": {
@@ -328,14 +328,14 @@
 					"top": 403,
 					"left": 1034,
 					"width": 293,
-					"title": "Open multiLevelStyles.json",
+					"title": ":xliff:MainWindow_OpenMultiLevelStylesTitle",
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"method": "ObjectMethods/OpenMultiLevelStyles.4dm",
 					"events": [
 						"onClick"
 					],
-					"text": "Open MultiLevelStyles.json",
+					"text": ":xliff:MainWindow_OpenMultiLevelStyles",
 					"class": "default"
 				},
 				"OpenParisPDF": {
@@ -343,19 +343,19 @@
 					"top": 623,
 					"left": 1034,
 					"width": 293,
-					"title": "Open Paris.pdf",
+					"title": ":xliff:MainWindow_OpenParisPDFTitle",
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"method": "ObjectMethods/OpenParisPDF.4dm",
 					"events": [
 						"onClick"
 					],
-					"text": "Open Paris.pdf",
+					"text": ":xliff:MainWindow_OpenParisPDF",
 					"class": "default"
 				},
 				"DemoText1": {
 					"type": "text",
-					"text": "Follow the webinar step by step and try each feature in the empty 4D Write Pro area to the left.",
+					"text": ":xliff:MainWindow_DemoText1",
 					"top": 214,
 					"left": 1079,
 					"width": 248,
@@ -369,7 +369,7 @@
 				},
 				"Text2": {
 					"type": "text",
-					"text": "Final Results",
+					"text": ":xliff:MainWindow_FinalResults",
 					"top": 490,
 					"left": 1079,
 					"width": 222,
@@ -380,7 +380,7 @@
 				},
 				"Text3": {
 					"type": "text",
-					"text": "Customization",
+					"text": ":xliff:MainWindow_Customization",
 					"top": 314,
 					"left": 1079,
 					"width": 270,
@@ -391,7 +391,7 @@
 				},
 				"Text1": {
 					"type": "text",
-					"text": "Get Started",
+					"text": ":xliff:MainWindow_GetStarted",
 					"top": 178,
 					"left": 1079,
 					"width": 116,
@@ -429,11 +429,11 @@
 				},
 				"DemoText2": {
 					"type": "text",
-					"text": "Choose which predefined multi-level list templates to show in the toolbar dropdown.",
+					"text": ":xliff:MainWindow_DemoText2",
 					"top": 350,
 					"left": 1079,
 					"width": 248,
-					"height": 31,
+					"height": 48,
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"textAlign": "left",
@@ -443,11 +443,11 @@
 				},
 				"DemoText3": {
 					"type": "text",
-					"text": "Review the finished brochure in 4D Write Pro or open the exported PDF.",
+					"text": ":xliff:MainWindow_DemoText3",
 					"top": 534,
 					"left": 1079,
 					"width": 248,
-					"height": 31,
+					"height": 46,
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"textAlign": "left",

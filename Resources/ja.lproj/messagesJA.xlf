@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Methods/start.4dm" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="WindowTitleDemo" resname="WindowTitleDemo">
+				<source>Webinar 21 R4 - Demo</source>
+				<target>ウェビナー 21 R4 - デモ</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

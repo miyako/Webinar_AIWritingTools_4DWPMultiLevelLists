@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="Project/Sources/Forms/MainWindow/form.4DForm" source-language="en" target-language="en">
+		<body>
+			<trans-unit id="MainWindow_WindowTitle" resname="MainWindow_WindowTitle">
+				<source>4D Write Pro: AI Writing Tools &amp; Multi-Level Lists</source>
+				<target>4D Write Pro: AI Writing Tools &amp; Multi-Level Lists</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_TabIntroduction" resname="MainWindow_TabIntroduction">
+				<source>Introduction</source>
+				<target>Introduction</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_TabWritePro" resname="MainWindow_TabWritePro">
+				<source>Write Pro</source>
+				<target>Write Pro</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarTitle" resname="MainWindow_WebinarTitle">
+				<source>4D Write Pro: Apple Writing Tools &amp; Multi-Level Lists</source>
+				<target>4D Write Pro: Apple Writing Tools &amp; Multi-Level Lists</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro1" resname="MainWindow_WebinarIntro1">
+				<source>In the 4D 21 R4 webinar, we explored how Apple Writing Tools work directly inside 4D Write Pro. We saw how to compose, rewrite, and adjust the tone of content without switching applications or managing API keys.</source>
+				<target>In the 4D 21 R4 webinar, we explored how Apple Writing Tools work directly inside 4D Write Pro. We saw how to compose, rewrite, and adjust the tone of content without switching applications or managing API keys.</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro2" resname="MainWindow_WebinarIntro2">
+				<source>We then built a professional Eiffel Tower brochure using multi-level style sheets, predefined templates, custom multi-level styles, toolbar controls, and the multiLevelStyles.json resource file.</source>
+				<target>We then built a professional Eiffel Tower brochure using multi-level style sheets, predefined templates, custom multi-level styles, toolbar controls, and the multiLevelStyles.json resource file.</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_WebinarIntro3" resname="MainWindow_WebinarIntro3">
+				<source>The final document was customized in 4D Write Pro and exported as a PDF.</source>
+				<target>The final document was customized in 4D Write Pro and exported as a PDF.</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GoToDemo" resname="MainWindow_GoToDemo">
+				<source>Try it Yourself! →</source>
+				<target>Try it Yourself! →</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GoToDemoTitle" resname="MainWindow_GoToDemoTitle">
+				<source>Go to demo page</source>
+				<target>Go to demo page</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenFinalWritePro" resname="MainWindow_OpenFinalWritePro">
+				<source>Import Final Write Pro Document</source>
+				<target>Import Final Write Pro Document</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenFinalWriteProTitle" resname="MainWindow_OpenFinalWriteProTitle">
+				<source>Open final Write Pro file</source>
+				<target>Open final Write Pro file</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenMultiLevelStyles" resname="MainWindow_OpenMultiLevelStyles">
+				<source>Open MultiLevelStyles.json</source>
+				<target>Open MultiLevelStyles.json</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenMultiLevelStylesTitle" resname="MainWindow_OpenMultiLevelStylesTitle">
+				<source>Open multiLevelStyles.json</source>
+				<target>Open multiLevelStyles.json</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenParisPDF" resname="MainWindow_OpenParisPDF">
+				<source>Open Paris.pdf</source>
+				<target>Open Paris.pdf</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_OpenParisPDFTitle" resname="MainWindow_OpenParisPDFTitle">
+				<source>Open Paris.pdf</source>
+				<target>Open Paris.pdf</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_GetStarted" resname="MainWindow_GetStarted">
+				<source>Get Started</source>
+				<target>Get Started</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText1" resname="MainWindow_DemoText1">
+				<source>Follow the webinar step by step and try each feature in the empty 4D Write Pro area to the left.</source>
+				<target>Follow the webinar step by step and try each feature in the empty 4D Write Pro area to the left.</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_Customization" resname="MainWindow_Customization">
+				<source>Customization</source>
+				<target>Customization</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText2" resname="MainWindow_DemoText2">
+				<source>Choose which predefined multi-level list templates to show in the toolbar dropdown.</source>
+				<target>Choose which predefined multi-level list templates to show in the toolbar dropdown.</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_FinalResults" resname="MainWindow_FinalResults">
+				<source>Final Results</source>
+				<target>Final Results</target>
+			</trans-unit>
+			<trans-unit id="MainWindow_DemoText3" resname="MainWindow_DemoText3">
+				<source>Review the finished brochure in 4D Write Pro or open the exported PDF.</source>
+				<target>Review the finished brochure in 4D Write Pro or open the exported PDF.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
