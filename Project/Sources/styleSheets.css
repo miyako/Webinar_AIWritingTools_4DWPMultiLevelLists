@@ -1,5 +1,14 @@
 /* Cross-platform: light/dark colour scheme */
 
+/* Welcome page keeps its light background in both schemes */
+.on-light-bg {
+	stroke: #000000;
+}
+
+.title-line {
+	stroke: #6495ED;
+}
+
 @media (prefers-color-scheme: light) {
 	.light-only {
 		visibility: visible;
@@ -9,10 +18,6 @@
 		fill: #2A2A2A;
 		stroke: #3A3A3A;
 		visibility: hidden;
-	}
-
-	.title-line {
-		stroke: #6495ED;
 	}
 }
 
@@ -25,9 +30,5 @@
 		fill: #2A2A2A;
 		stroke: #3A3A3A;
 		visibility: visible;
-	}
-
-	.title-line {
-		stroke: #7FA8F0;
 	}
 }

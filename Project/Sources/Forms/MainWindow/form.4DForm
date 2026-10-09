@@ -60,6 +60,15 @@
 		},
 		{
 			"objects": {
+				"WelcomeBackground": {
+					"type": "picture",
+					"top": 50,
+					"left": 16,
+					"width": 1341,
+					"height": 800,
+					"picture": "/RESOURCES/IntroIcons/WebinarIntro_Background.png",
+					"pictureFormat": "scaled"
+				},
 				"WebinarTitle": {
 					"type": "text",
 					"top": 255,
@@ -76,7 +85,7 @@
 					"focusable": false,
 					"textAlign": "center",
 					"fontWeight": "bold",
-					"stroke": "automatic"
+					"class": "on-light-bg"
 				},
 				"WebinarIntro1": {
 					"type": "text",
@@ -92,7 +101,7 @@
 					"verticalAlignment": "top",
 					"focusable": false,
 					"textAlign": "justify",
-					"stroke": "automatic"
+					"class": "on-light-bg"
 				},
 				"WebinarIntro1Icon": {
 					"type": "picture",
@@ -119,7 +128,7 @@
 					"verticalAlignment": "top",
 					"focusable": false,
 					"textAlign": "justify",
-					"stroke": "automatic"
+					"class": "on-light-bg"
 				},
 				"WebinarIntro2Icon": {
 					"type": "picture",
@@ -146,7 +155,7 @@
 					"verticalAlignment": "top",
 					"focusable": false,
 					"textAlign": "justify",
-					"stroke": "automatic"
+					"class": "on-light-bg"
 				},
 				"WebinarIntro3Icon": {
 					"type": "picture",
