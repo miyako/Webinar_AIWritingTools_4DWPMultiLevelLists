@@ -51,7 +51,7 @@
 					"top": 50,
 					"left": 16,
 					"width": 1341,
-					"height": 800,
+					"height": 680,
 					"picture": "/RESOURCES/IntroIcons/WebinarIntro_Background.png",
 					"pictureFormat": "scaled",
 					"class": "light-only"
@@ -65,7 +65,7 @@
 					"top": 50,
 					"left": 16,
 					"width": 1341,
-					"height": 800,
+					"height": 680,
 					"picture": "/RESOURCES/IntroIcons/WebinarIntro_Background.png",
 					"pictureFormat": "scaled"
 				},
@@ -170,7 +170,7 @@
 				},
 				"GoToDemo": {
 					"type": "button",
-					"top": 674,
+					"top": 624,
 					"left": 538,
 					"width": 280,
 					"height": 81,
@@ -200,9 +200,9 @@
 				},
 				"TitleLine": {
 					"type": "line",
-					"top": 309,
-					"left": 598,
-					"width": 177,
+					"top": 289,
+					"left": 603,
+					"width": 157,
 					"height": 0,
 					"strokeWidth": 4,
 					"startPoint": "topLeft",
@@ -217,13 +217,13 @@
 					"top": 158,
 					"left": 1022,
 					"width": 319,
-					"height": 120,
+					"height": 140,
 					"borderRadius": 12,
 					"class": "card-dark"
 				},
 				"Card2": {
 					"type": "rectangle",
-					"top": 294,
+					"top": 314,
 					"left": 1022,
 					"width": 319,
 					"height": 160,
@@ -232,26 +232,26 @@
 				},
 				"Card3": {
 					"type": "rectangle",
-					"top": 470,
+					"top": 490,
 					"left": 1022,
 					"width": 319,
-					"height": 205,
+					"height": 220,
 					"borderRadius": 12,
 					"class": "card-dark"
 				},
 				"Static Picture4": {
 					"type": "picture",
-					"top": 462,
+					"top": 482,
 					"left": 1014,
 					"width": 335,
-					"height": 221,
+					"height": 243,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
 					"pictureFormat": "scaled",
 					"class": "light-only"
 				},
 				"Static Picture3": {
 					"type": "picture",
-					"top": 286,
+					"top": 306,
 					"left": 1014,
 					"width": 335,
 					"height": 176,
@@ -264,7 +264,7 @@
 					"top": 150,
 					"left": 1014,
 					"width": 335,
-					"height": 136,
+					"height": 156,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
 					"pictureFormat": "scaled",
 					"class": "light-only"
@@ -274,7 +274,7 @@
 					"top": 150,
 					"left": 24,
 					"width": 979,
-					"height": 654,
+					"height": 560,
 					"sizingX": "grow",
 					"sizingY": "grow",
 					"hideFocusRing": true,
@@ -309,7 +309,7 @@
 				},
 				"OpenFinalWritePro": {
 					"type": "button",
-					"top": 581,
+					"top": 623,
 					"left": 1034,
 					"width": 293,
 					"title": ":xliff:MainWindow_OpenFinalWriteProTitle",
@@ -325,7 +325,7 @@
 				},
 				"OpenMultiLevelStyles": {
 					"type": "button",
-					"top": 403,
+					"top": 435,
 					"left": 1034,
 					"width": 293,
 					"title": ":xliff:MainWindow_OpenMultiLevelStylesTitle",
@@ -340,7 +340,7 @@
 				},
 				"OpenParisPDF": {
 					"type": "button",
-					"top": 623,
+					"top": 663,
 					"left": 1034,
 					"width": 293,
 					"title": ":xliff:MainWindow_OpenParisPDFTitle",
@@ -359,7 +359,7 @@
 					"top": 214,
 					"left": 1079,
 					"width": 248,
-					"height": 62,
+					"height": 65,
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"textAlign": "left",
@@ -370,7 +370,7 @@
 				"Text2": {
 					"type": "text",
 					"text": ":xliff:MainWindow_FinalResults",
-					"top": 490,
+					"top": 510,
 					"left": 1079,
 					"width": 222,
 					"height": 24,
@@ -381,7 +381,7 @@
 				"Text3": {
 					"type": "text",
 					"text": ":xliff:MainWindow_Customization",
-					"top": 314,
+					"top": 334,
 					"left": 1079,
 					"width": 270,
 					"height": 16,
@@ -411,7 +411,7 @@
 				},
 				"Static Picture6": {
 					"type": "picture",
-					"top": 298,
+					"top": 318,
 					"left": 1026,
 					"width": 50,
 					"height": 50,
@@ -420,7 +420,7 @@
 				},
 				"Static Picture7": {
 					"type": "picture",
-					"top": 477,
+					"top": 497,
 					"left": 1026,
 					"width": 50,
 					"height": 50,
@@ -430,10 +430,10 @@
 				"DemoText2": {
 					"type": "text",
 					"text": ":xliff:MainWindow_DemoText2",
-					"top": 350,
+					"top": 365,
 					"left": 1079,
 					"width": 248,
-					"height": 48,
+					"height": 65,
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"textAlign": "left",
@@ -444,10 +444,10 @@
 				"DemoText3": {
 					"type": "text",
 					"text": ":xliff:MainWindow_DemoText3",
-					"top": 534,
+					"top": 554,
 					"left": 1079,
 					"width": 248,
-					"height": 46,
+					"height": 65,
 					"fontFamily": "Arial",
 					"fontSize": 14,
 					"textAlign": "left",
@@ -458,7 +458,7 @@
 			}
 		}
 	],
-	"geometryStamp": 304,
+	"geometryStamp": 402,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
