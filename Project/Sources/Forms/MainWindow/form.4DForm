@@ -226,9 +226,10 @@
 					"top": 314,
 					"left": 1022,
 					"width": 319,
-					"height": 160,
+					"height": 164,
 					"borderRadius": 12,
-					"class": "card-dark"
+					"class": "card-dark",
+					"bottom": 478
 				},
 				"Card3": {
 					"type": "rectangle",
@@ -241,33 +242,36 @@
 				},
 				"Static Picture4": {
 					"type": "picture",
-					"top": 482,
+					"top": 480,
 					"left": 1014,
 					"width": 335,
-					"height": 243,
+					"height": 245,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
 					"pictureFormat": "scaled",
-					"class": "light-only"
+					"class": "light-only",
+					"bottom": 725
 				},
 				"Static Picture3": {
 					"type": "picture",
 					"top": 306,
 					"left": 1014,
 					"width": 335,
-					"height": 176,
+					"height": 182,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
 					"pictureFormat": "scaled",
-					"class": "light-only"
+					"class": "light-only",
+					"bottom": 488
 				},
 				"Static Picture1": {
 					"type": "picture",
-					"top": 150,
+					"top": 152,
 					"left": 1014,
 					"width": 335,
-					"height": 156,
+					"height": 155,
 					"picture": "/RESOURCES/DemoIcons/card-background.png",
 					"pictureFormat": "scaled",
-					"class": "light-only"
+					"class": "light-only",
+					"bottom": 307
 				},
 				"WParea": {
 					"type": "write",
@@ -309,7 +313,7 @@
 				},
 				"OpenFinalWritePro": {
 					"type": "button",
-					"top": 623,
+					"top": 628,
 					"left": 1034,
 					"width": 293,
 					"title": ":xliff:MainWindow_OpenFinalWriteProTitle",
@@ -340,7 +344,7 @@
 				},
 				"OpenParisPDF": {
 					"type": "button",
-					"top": 663,
+					"top": 668,
 					"left": 1034,
 					"width": 293,
 					"title": ":xliff:MainWindow_OpenParisPDFTitle",
@@ -458,7 +462,7 @@
 			}
 		}
 	],
-	"geometryStamp": 402,
+	"geometryStamp": 426,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
