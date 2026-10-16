@@ -4,3 +4,6 @@
 /tools/4dlsp/
 /tools/4dlang/
 /tools/4dcli/
+Project/DerivedData/*
+userPreferences.*
+Data/*

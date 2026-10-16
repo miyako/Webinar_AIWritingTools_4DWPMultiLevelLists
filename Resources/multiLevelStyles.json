@@ -1,7 +1,7 @@
 {
   "predefinedMultiLevelLists": [
     {
-      "name": "Technical Blue Print",
+      "name": "テクニカル",
       "levels": [
         { "listStyleType": "wk decimal" },
         { "listStyleType": "wk decimal" , "listConcatStringFormat": true },
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "name": "Legal and Governance",
+      "name": "リーガル",
       "levels": [
         { "listStyleType": "wk upper roman" },
         { "listStyleType": "wk upper latin" },
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "Education Material",
+      "name": "教材",
       "levels": [
         { "listStyleType": "wk upper roman", "font": "Calibri", "fontSize": 18, "color": "#7C3AED", "fontBold": true, "listFont": "Calibri Bold"},
         { "listStyleType": "wk decimal", "font": "Calibri", "fontSize": 16, "color": "#2563EB", "fontBold": true, "listFont": "Calibri Bold" },
@@ -33,14 +33,14 @@
       ]
     },
     {
-      "name": "Meeting Minutes",
+      "name": "議事録",
       "levels": [
         { "listStyleType": "wk decimal" },
         { "listStyleType": "wk disc" }
       ]
     },
     {
-      "name": "Visual Hierarchy",
+      "name": "プレゼンテーション",
       "levels": [
         { "listStyleType": "wk club" },
         { "listStyleType":  "wk diamond"},
@@ -49,33 +49,6 @@
         { "listStyleType": "wk disc" },
         { "listStyleType": "wk circle" },
         { "listStyleType": "wk custom", "listStringFormatLtr": "-" }
-      ]
-    },
-    {
-      "name": "Paris Stylesheet",
-      "levels": [
-        { "listStyleImageURL": "Resources/paris-icon-1.png", 
-            "wk font":"Didot",
-            "wk font size": 20, 
-            "wk font bold": true,
-            "wk text transform": 4, 
-            "wk text color": "#335769",
-            "wk text align": 2, 
-            "wk background color":"White",
-            "wk padding": "2pt",
-            "wk padding bottom": "6pt",
-            "wk border style" : 1,
-            "wk border width": "0.5pt",
-            "wk border color": "PeachPuff",
-            "wk border radius": "12pt" },
-        { "listStyleImageURL":  "Resources/paris-icon-2.png", 
-            "wk font": "Didot",
-            "wk font size": 16,
-            "wk font bold": true,
-            "wk text color": "#7797B3"},
-        { "listStyleType": "wk square",
-            "wk font": "Didot",
-            "wk text color": "#655E56" }
       ]
     }
   ]
