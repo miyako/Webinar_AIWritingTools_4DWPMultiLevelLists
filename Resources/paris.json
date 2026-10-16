@@ -1,0 +1,27 @@
+{
+  "name": "おしゃれ",
+  "levels": [
+    { "listStyleImageURL": "Resources/paris-icon-1.png", 
+        "wk font":"KaiseiDecol",
+        "wk font size": 20, 
+        "wk font bold": true,
+        "wk text transform": 4, 
+        "wk text color": "#335769",
+        "wk text align": 2, 
+        "wk background color":"White",
+        "wk padding": "2pt",
+        "wk padding bottom": "6pt",
+        "wk border style" : 1,
+        "wk border width": "0.5pt",
+        "wk border color": "PeachPuff",
+        "wk border radius": "12pt" },
+    { "listStyleImageURL":  "Resources/paris-icon-2.png", 
+        "wk font": "KaiseiDecol",
+        "wk font size": 16,
+        "wk font bold": true,
+        "wk text color": "#7797B3"},
+    { "listStyleType": "wk square",
+        "wk font": "KaiseiDecol",
+        "wk text color": "#655E56" }
+  ]
+}
